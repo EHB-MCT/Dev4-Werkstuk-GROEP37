@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89c243b9-7da8-477b-b544-cdc0e39d5e9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/AddTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/ShoppingKart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/fruit/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/fruit/Pear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/fruit/Pineapple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/fruit/Tomato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/vegetables/BrusselsSprout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/vegetables/GreenPepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/vegetables/Radish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/vegetables/RedPepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/vegetables/YellowPepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/app/ShoppingKartTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1stK00yq3Rc55ijQ6ZwFAnggQFw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Gradle.ShoppingKartTest">
+    <configuration name="ShoppingKartTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;app.ShoppingKartTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ShoppingKartTest.createMyShoppingKart" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;app.ShoppingKartTest.createMyShoppingKart&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ShoppingKartTest" />
+        <item itemvalue="Gradle.ShoppingKartTest.createMyShoppingKart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89c243b9-7da8-477b-b544-cdc0e39d5e9f" name="Default Changelist" comment="" />
+      <created>1621686220605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621686220605</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
