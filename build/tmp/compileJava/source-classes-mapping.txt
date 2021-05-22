@@ -1,4 +1,0 @@
-citybuilder/Village.java
- citybuilder.Village
-citybuilder/Main.java
- citybuilder.Main
