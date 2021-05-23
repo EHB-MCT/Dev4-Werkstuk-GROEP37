@@ -24,7 +24,7 @@ public class ShoppingKartTest {
 
         ArrayList<Bio> sort = new ArrayList<Bio>();
         sort.add(new Apple(shoppingkart));
-       sort.add(new Banana(shoppingkart));
+        sort.add(new Banana(shoppingkart));
         sort.add(new Pear(shoppingkart));
         sort.add(new Pineapple(shoppingkart));
         sort.add(new Tomato(shoppingkart));
@@ -33,20 +33,17 @@ public class ShoppingKartTest {
         sort.add(new Radish(shoppingkart));
         sort.add(new RedPepper(shoppingkart));
         sort.add(new YellowPepper(shoppingkart));
-        System.out.println(sort.get(2).getColor());
         System.out.println(shoppingkart.getNameproduct() + " $ " + Math.round(shoppingkart.cost() * 100.0) / 100.0);
 
         Iterator<Bio> sortIterator = sort.iterator();
-
+        String colorsort = "Red";
+        System.out.println("Fruits that are :"+colorsort);
         while (sortIterator.hasNext()) {
             Bio item = sortIterator.next();
-            if(item.getColor().equals("Yellow")){
+            if(item.getColor().equals(colorsort)){
     System.out.println(item.getName());
 }
-
-
         }
-
 
     }
 }
