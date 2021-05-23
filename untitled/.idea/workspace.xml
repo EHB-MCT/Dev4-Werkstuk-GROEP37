@@ -5,35 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89c243b9-7da8-477b-b544-cdc0e39d5e9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/app/KartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/app/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/Decoratortest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/Price.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/app/Price.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/MyShoppingKart.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/app/MyShoppingKart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/Price.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/app/ShoppingKart.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/app/ShoppingKart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/app/ShoppingKartTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/app.ShoppingKartTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/app.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-app.ShoppingKartTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/MyShoppingKart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/MyShoppingKart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Bag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/app/ShoppingKart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/ShoppingKart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/app/ShoppingKartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/MyShoppingKart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/app/KartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/app/KartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/app/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/app/SortTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +76,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Gradle.SortTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="app.Main" />
       <module name="untitled.main" />

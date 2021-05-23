@@ -10,7 +10,7 @@ import java.util.Iterator;
 public class SortTest {
     @Test
     void sortMyShoppingKart() {
-        ShoppingKart shoppingkart = new Price();
+        ShoppingKart shoppingkart = new Bag();
         ArrayList<Bio> sort = new ArrayList<Bio>();
         sort.add(new Pear(shoppingkart));
         sort.add(new Pineapple(shoppingkart));

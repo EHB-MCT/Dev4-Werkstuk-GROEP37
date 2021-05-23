@@ -4,13 +4,10 @@ import app.fruit.*;
 import app.vegetables.*;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-
 public class KartTest {
     @Test
     void createMyShoppingKart() {
-        ShoppingKart shoppingkart = new Price();
+        ShoppingKart shoppingkart = new Bag();
         shoppingkart = new Pear(shoppingkart);
         shoppingkart = new Pineapple(shoppingkart);
         shoppingkart = new Tomato(shoppingkart);

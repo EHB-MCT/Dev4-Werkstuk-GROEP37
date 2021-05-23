@@ -4,8 +4,14 @@ app/fruit/Pear.java
  app.fruit.Pear
 app/fruit/Pineapple.java
  app.fruit.Pineapple
+app/fruit/Tomato.java
+ app.fruit.Tomato
 app/vegetables/Radish.java
  app.vegetables.Radish
+app/Decoratortest.java
+ app.Decoratortest
+app/AddTo.java
+ app.AddTo
 app/fruit/Apple.java
  app.fruit.Apple
 app/fruit/Banana.java
@@ -20,12 +26,8 @@ app/vegetables/BrusselsSprout.java
  app.vegetables.BrusselsSprout
 app/vegetables/GreenPepper.java
  app.vegetables.GreenPepper
-app/AddTo.java
- app.AddTo
-app/fruit/Tomato.java
- app.fruit.Tomato
-app/Price.java
- app.Price
+app/Bag.java
+ app.Bag
 app/MyShoppingKart.java
  app.MyShoppingKart
 app/Main.java
