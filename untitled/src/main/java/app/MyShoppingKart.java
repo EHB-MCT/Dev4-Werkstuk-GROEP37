@@ -2,15 +2,16 @@ package app;
 
 import app.fruit.*;
 import app.vegetables.*;
-import org.junit.jupiter.api.Test;
+
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class ShoppingKartTest {
-    @Test
+public class MyShoppingKart {
+    public static Bag bag = Bag.getInstance();
+    ShoppingKart shoppingkart = bag;
     void createMyShoppingKart() {
-        ShoppingKart shoppingkart = new Price();
+
         shoppingkart = new Apple(shoppingkart);
         shoppingkart = new Banana(shoppingkart);
         shoppingkart = new Pear(shoppingkart);
@@ -22,6 +23,11 @@ public class ShoppingKartTest {
         shoppingkart = new RedPepper(shoppingkart);
         shoppingkart = new YellowPepper(shoppingkart);
 
+        System.out.println(shoppingkart.getNameproduct() + " $ " + Math.round(shoppingkart.cost() * 100.0) / 100.0);
+
+}
+
+    void sortMyShoppingKart() {
         ArrayList<Bio> sort = new ArrayList<Bio>();
         sort.add(new Apple(shoppingkart));
         sort.add(new Banana(shoppingkart));
@@ -33,17 +39,15 @@ public class ShoppingKartTest {
         sort.add(new Radish(shoppingkart));
         sort.add(new RedPepper(shoppingkart));
         sort.add(new YellowPepper(shoppingkart));
-        System.out.println(shoppingkart.getNameproduct() + " $ " + Math.round(shoppingkart.cost() * 100.0) / 100.0);
-
         Iterator<Bio> sortIterator = sort.iterator();
         String colorsort = "Red";
-        System.out.println("Fruits that are : "+colorsort);
+        System.out.println("Fruits that are : " + colorsort);
         while (sortIterator.hasNext()) {
             Bio item = sortIterator.next();
-            if(item.getColor().equals(colorsort)){
-    System.out.println(item.getName());
-}
-        }
+            if (item.getColor().equals(colorsort)) {
+                System.out.println(item.getName());
+            }
 
+        }
     }
 }

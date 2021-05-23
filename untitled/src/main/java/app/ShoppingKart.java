@@ -1,10 +1,5 @@
 package app;
 
-import app.fruit.*;
-
-import java.util.ArrayList;
-import java.util.Iterator;
-
 public abstract class ShoppingKart {
     protected String nameproduct;
 
@@ -14,6 +9,7 @@ public abstract class ShoppingKart {
     public String getNameproduct(){return nameproduct;}
     protected abstract double cost();
     public void SearchColor(String color){
+
 
     }
 
