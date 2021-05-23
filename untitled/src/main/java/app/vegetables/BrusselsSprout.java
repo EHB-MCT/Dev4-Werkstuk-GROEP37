@@ -2,7 +2,6 @@ package app.vegetables;
 import app.AddTo;
 import app.Bio;
 import app.ShoppingKart;
-import app.fruit.Tomato;
 
 public class BrusselsSprout extends AddTo implements Bio {
     public String getColor(){

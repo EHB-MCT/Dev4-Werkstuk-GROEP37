@@ -1,9 +1,7 @@
+app/Bio.java
+ app.Bio
 app/Price.java
  app.Price
-app/ShoppingKart.java
- app.ShoppingKart
-app/AddTo.java
- app.AddTo
 app/fruit/Pineapple.java
  app.fruit.Pineapple
 app/vegetables/Radish.java
@@ -14,15 +12,17 @@ app/fruit/Banana.java
  app.fruit.Banana
 app/vegetables/YellowPepper.java
  app.vegetables.YellowPepper
-app/Bio.java
- app.Bio
+app/ShoppingKart.java
+ app.ShoppingKart
 app/vegetables/RedPepper.java
  app.vegetables.RedPepper
 app/vegetables/BrusselsSprout.java
  app.vegetables.BrusselsSprout
-app/fruit/Tomato.java
- app.fruit.Tomato
 app/vegetables/GreenPepper.java
  app.vegetables.GreenPepper
+app/AddTo.java
+ app.AddTo
+app/fruit/Tomato.java
+ app.fruit.Tomato
 app/fruit/Pear.java
  app.fruit.Pear
