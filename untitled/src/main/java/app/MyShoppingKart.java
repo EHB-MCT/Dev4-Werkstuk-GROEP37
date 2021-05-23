@@ -8,7 +8,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class MyShoppingKart {
-    ShoppingKart shoppingkart = new Price();
+    public static Bag bag = Bag.getInstance();
+    ShoppingKart shoppingkart = bag;
     void createMyShoppingKart() {
 
         shoppingkart = new Apple(shoppingkart);
