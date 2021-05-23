@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="app.ShoppingKartTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-22T20:01:04" hostname="DESKTOP-VLG6TPA" time="0.025">
+<testsuite name="app.ShoppingKartTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-23T14:29:14" hostname="DESKTOP-VLG6TPA" time="0.02">
   <properties/>
-  <testcase name="createMyShoppingKart()" classname="app.ShoppingKartTest" time="0.025"/>
-  <system-out><![CDATA[Kart price: AppleBanana Pear Pineapple Tomato Brussels sprout Green pepper Radish Red pepper Yellow pepper  $ 6.75
-app.vegetables.YellowPepper@43278a2b
+  <testcase name="createMyShoppingKart()" classname="app.ShoppingKartTest" time="0.02"/>
+  <system-out><![CDATA[Green
+Kart price: Apple Banana Pear Pineapple Tomato Brussels sprout Green pepper Radish Red pepper Yellow pepper  $ 6.75
+Banana
+Pineapple
+Yellow pepper
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

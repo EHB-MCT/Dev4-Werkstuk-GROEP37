@@ -1,9 +1,22 @@
 package app.vegetables;
 import app.AddTo;
+import app.Bio;
 import app.ShoppingKart;
+import app.fruit.Tomato;
 
-public class RedPepper extends AddTo {
+public class RedPepper extends AddTo implements Bio {
+    public String getColor(){
+        return color;
+    }
+    public String getName(){
+        return name;
+    }
+
+    public static void setColor(String color) {
+        RedPepper.color = color;
+    }
     public static String color="Red";
+    public static String name="Red pepper";
     public RedPepper(ShoppingKart shoppingkart){
         super(shoppingkart);
         super.setNameproduct("Red pepper ");
