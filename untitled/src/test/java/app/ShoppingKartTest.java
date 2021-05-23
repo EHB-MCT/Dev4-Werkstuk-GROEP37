@@ -37,7 +37,7 @@ public class ShoppingKartTest {
 
         Iterator<Bio> sortIterator = sort.iterator();
         String colorsort = "Red";
-        System.out.println("Fruits that are :"+colorsort);
+        System.out.println("Fruits that are : "+colorsort);
         while (sortIterator.hasNext()) {
             Bio item = sortIterator.next();
             if(item.getColor().equals(colorsort)){
